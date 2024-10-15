@@ -1,3 +1,11 @@
+# 服务器代理服务
+
+如果你觉得本项目对你有用,而且你也恰巧有这方面的需求,你也可以选择通过我的购买链接赞助我  
+- [搬瓦工GIA服务器](https://bandwagonhost.com/aff.php?aff=41846)  - - - 仅推荐购买GIA套餐 - - -   
+
+如果你希望购买一些现成的代理服务,可选择下述代理服务
+- [搬瓦工官方机场](https://justmysocks.net/members/aff.php?aff=16884)  
+
 # AriaNg
 [![License](https://img.shields.io/github/license/mayswind/AriaNg.svg?style=flat)](https://github.com/mayswind/AriaNg/blob/master/LICENSE)
 [![Lastest Build](https://img.shields.io/circleci/project/github/mayswind/AriaNg.svg?style=flat)](https://circleci.com/gh/mayswind/AriaNg/tree/master)
@@ -36,10 +44,6 @@ AriaNg is a modern web frontend making [aria2](https://github.com/aria2/aria2) e
 ## Installation
 AriaNg now provides three versions, standard version, all-in-one version and [AriaNg Native](https://github.com/mayswind/AriaNg-Native). Standard version is suitable for deployment in the web server, and provides on-demand loading. All-In-One version is suitable for local using, and you can download it and just open the only html file in browser. [AriaNg Native](https://github.com/mayswind/AriaNg-Native) is also suitable for local using, and is no need for browser. 
 
-#### Prebuilt release
-Latest Release: [https://github.com/mayswind/AriaNg/releases](https://github.com/mayswind/AriaNg/releases)
-
-Latest Daily Build (Standard Version): [https://github.com/mayswind/AriaNg-DailyBuild/archive/master.zip](https://github.com/mayswind/AriaNg-DailyBuild/archive/master.zip)
 
 #### Building from source
 Make sure you have [Node.js](https://nodejs.org/), [NPM](https://www.npmjs.com/) and [Gulp](https://gulpjs.com/) installed. Then download the source code, and follow these steps.
@@ -63,8 +67,6 @@ Since AriaNg standard version loads language resources asynchronously, you may n
 1. [English](http://ariang.mayswind.net)
 2. [Simplified Chinese (简体中文)](http://ariang.mayswind.net/zh_Hans)
 
-## Demo
-Please visit [http://ariang.mayswind.net/latest](http://ariang.mayswind.net/latest)
 
 ## Third Party Extensions
 There are some third-party applications based on AriaNg, so you can use AriaNg in more scenarios or devices. Please visit [Third Party Extensions](http://ariang.mayswind.net/3rd-extensions.html) for more information.
